@@ -1,15 +1,15 @@
-Hinge Tenson Elastic Complex (HTEC) foot, we construct the dynamics. This is a full-passive foot structure. 
-This is an 2D example, which can show you the mechanism of the foot structure.
+In the construction of the Hinge Tenson Elastic Complex (HTEC) foot structure, we develop a fully passive foot dynamics environment. The code serve as a 2D example illustrating the mechanism of this foot structure.
 Three sets of stiffness parameter was used in the foot, so that we can compare the difference of the foot performence.
-Stablity and the Adapatability is a trade-off as for a foot structure:
-The foot too hard will lead to good stable, it will have a good capability in balance the body, but it will not have the ability to deformation and shock absorbing. 
-The foot too soft will lead to good adapatability, it will deform when stepping in to complex terrain, but will not to have good ability to stablize the body weight. 
+We utilized three sets of stiffness parameters within the foot to enable a comparison of performance differences. The balance between stability and adaptability is a crucial consideration for a foot structure:
+
+A foot that is too rigid will excel in stability, offering excellent body balance capabilities. However, it may lack the flexibility required for deformation and shock absorption.
+Conversely, a foot that is too soft will prioritize adaptability, deforming effectively when encountering complex terrain. Yet, it might struggle to adequately stabilize the body weight.
 
 We proposed a optimization method to solve this trade-off. (in: https://doi.org/10.1016/j.dt.2024.08.010)
 
 It is noted that the code committed here not including the optimization code. There are just the 2D structure kinematics and dynamics, and the simulation enviornment in 2D plane.
 
-You can tune the spring parameters and try to find the best configuration. (Although it is hard to tuning manully...) 
+You can tune the spring parameters and try to find the best configuration. (Although it is difficult fot tuning manully...) 
 
 Here is the example:
 |Hard parameter|Soft parameter|Almost optimal|
