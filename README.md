@@ -12,6 +12,6 @@ It is noted that the code committed here not including the optimization code. Th
 You can tune the spring parameters and try to find the best configuration. (Although it is difficult fot tuning manully...) 
 
 Here is the example:
-|Hard parameter|Soft parameter|Almost optimal|
+|Soft parameter|Hard parameter|Almost optimal|
 |---|---|---|
-|<img src="https://github.com/user-attachments/assets/391c77f8-33ad-4020-abf8-0ba8add52f83" width="200px" />|<img src="https://github.com/user-attachments/assets/d77733d0-05e3-40ac-8af9-372c10b08cfb" width="200px" />|<img src="https://github.com/user-attachments/assets/ebc6f740-7ee7-4cb5-9e4c-60da2cb9a4da" width="200px" />|
+|<img src="https://github.com/user-attachments/assets/d77733d0-05e3-40ac-8af9-372c10b08cfb" width="200px" />|<img src="https://github.com/user-attachments/assets/391c77f8-33ad-4020-abf8-0ba8add52f83" width="200px" />|<img src="https://github.com/user-attachments/assets/ebc6f740-7ee7-4cb5-9e4c-60da2cb9a4da" width="200px" />|
